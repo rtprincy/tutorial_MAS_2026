@@ -1,2 +1,2 @@
 # tutorial_MAS_2026
-This repository features a notebook dedicated to the visualisation of complex data in Astronomy, created for the Malagasy Astronomical Society (MAS) sharing session on 30 September 2026.
+The notebook is an unsupervised machine-learning workflow. It uses PCA, t-SNE, correlation-based feature reduction, UMAP, Gaussian-mixture clustering, cluster-separation metrics, and a later comparison with SIMBAD classifications.
